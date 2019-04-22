@@ -25,7 +25,7 @@ Cần tuyển 2 nhân viên treo Tranh Canvas.
 ✅ **Mô tả công việc**:
 
 - Tới kho nhận tranh đã đóng gói sẵn, ship tới nhà và treo lên tường cho khách. 
--Không yêu cầu kinh ngiệm sẽ được đào tạo cụ thể khi nhận việc.
+- Không yêu cầu kinh ngiệm sẽ được đào tạo cụ thể khi nhận việc.
 - Thời gian làm việc: từ 8h30am-7h00pm.
 
 Ai quan tâm xin liên hệ số điện thoại: [**0376566898**](tel:0376566898).
