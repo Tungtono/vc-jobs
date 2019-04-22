@@ -24,9 +24,9 @@ description: Những vị trí đang tuyển tại Viet Canvas
 # List of links in the navigation bar
 navbar-links:
   Vị trí đang tuyển:
-    - Quản lý vận hành: "/2019-04-22-van-hanh/"
-    - Thợ treo tranh: "/2019-04-22-treo-tranh/"
-    - Tư vấn viên: "/2019-04-22-tu-van/"
+    - Quản lý vận hành: "https://jobs.vietcanvas.net/2019-04-22-van-hanh/"
+    - Thợ treo tranh: "https://jobs.vietcanvas.net/2019-04-22-treo-tranh/"
+    - Tư vấn viên: "https://jobs.vietcanvas.net/2019-04-22-tu-van/"
   Giới thiệu Viet Canvas: "vietcanvas"
 
 # Image to show in the navigation bar - image must be a square (width = height)
