@@ -28,6 +28,7 @@ navbar-links:
     - Thợ treo tranh: "https://jobs.vietcanvas.net/2019-04-22-treo-tranh/"
     - Tư vấn viên: "https://jobs.vietcanvas.net/2019-04-22-tu-van/"
   Giới thiệu Viet Canvas: "vietcanvas"
+  Shop tranh Viet Canvas: "https://vietcanvas.net/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
