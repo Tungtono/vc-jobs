@@ -2,7 +2,7 @@
 layout: post
 title: Thợ treo tranh
 subtitle: 10,000,000 - 15,000,000 VND/tháng
-tags: [treo tranh], [TPHCM]
+tags: [treo tranh, TPHCM]
 comments: true
 ---
 
