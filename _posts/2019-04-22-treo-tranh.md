@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thợ treo tranh
-subtitle: Cần tuyển 2 nhân viên treo Tranh Canvas.
+subtitle: 10,000,000 - 15,000,000 VND/tháng
 tags: [test]
 comments: true
 ---
