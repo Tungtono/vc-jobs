@@ -27,7 +27,7 @@ navbar-links:
     - Quản lý vận hành: "/2019-04-22-van-hanh/"
     - Thợ treo tranh: "/2019-04-22-treo-tranh/"
     - Tư vấn viên: "/2019-04-22-tu-van/"
-  Giới thiệu Viet Canvas: "aboutme"
+  Giới thiệu Viet Canvas: "vietcanvas"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
