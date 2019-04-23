@@ -4,7 +4,7 @@ title: Thợ treo tranh - Lao động phổ thông
 subtitle: 10,000,000 - 15,000,000 VND/tháng
 tags: [treo tranh, TPHCM]
 comments: true
-desc: Công ty tranh treo tường trang trí Viet Canvas cần tuyển nhân viên treo tranh Canvas. Lương cứng 7 triệu/tháng, thưởng theo số lượng đơn hàng. Thu nhập ổn định 10-15 triệu/ tháng (tuỳ theo năng lực làm việc)
+desc: Công ty tranh treo tường trang trí Viet Canvas cần tuyển nhân viên treo tranh Canvas. Lương cứng 7 triệu/tháng, thưởng theo số lượng đơn hàng. Thu nhập ổn định 10-15 triệu/ tháng (tuỳ theo năng lực làm việc)</br>Quyền lợi:</br>- Lương cứng 7 triệu/tháng, thưởng theo số lượng đơn hàng. Thu nhập ổn định 10-15 triệu/ tháng (tuỳ theo năng lực làm việc)</br>- Được phụ cấp, hỗ trợ xăng xe, điện thoại,…
 fromdate: 2019-04-22
 validdate : 2019-05-30
 emp_type: full-time
