@@ -1,0 +1,37 @@
+<script type="application/ld+json"> 
+{
+  "@context" : "https://schema.org/",
+  "@type" : "JobPosting",
+  "title" : "{{ site.title }}",
+  "description" : "{{ site.desc }}",
+  "datePosted" : "{{ site.fromdate }}",
+  "validThrough" : "{{ site.validdate }}",
+  "employmentType" : "{{ site.emp_type }}",
+  "hiringOrganization" : {
+    "@type" : "Organization",
+    "name" : "Viet Canvas",
+    "sameAs" : "http://vietcanvas.net",
+    "logo" : "https://vietcanvas.net/wp-content/uploads/2018/01/vietcanvas-light-logo-1.png"
+  },
+  "jobLocation": {
+  "@type": "Place",
+    "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "{{ site.store_add }}",
+    "addressLocality": "{{ site.city }}",
+    "addressRegion": "{{ site.city }}",
+    "postalCode": "{{ site.city_code }}",
+    "addressCountry": "VN"
+    }
+  },
+ "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "VND",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": "{{ site.salary }}",
+      "unitText": "MONTH"
+    }
+  }
+}
+</script>
