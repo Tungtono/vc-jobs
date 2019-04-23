@@ -11,7 +11,7 @@ emp_type: full-time
 store_add: 84 Phạm Hùng, Bình Hưng, Bình Chánh
 city: TPHCM
 city_code: 70000
-salary: 7,000,000 - 10,000,000 VND/tháng
+salary: 7 - 10 triệu/tháng
 
 ---
 
