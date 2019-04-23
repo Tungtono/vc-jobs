@@ -22,6 +22,7 @@ Viet Canvas cần tuyển nhân viên in ấn & giám sát chất lượng tại
 - Phụ trách in tranh trên vải canvas. Không cần kinh nghiệm, sẽ được training khi nhận việc
 - Giám sát và đảm bảo chất lượng sản phẩm và chất lượng dịch vụ theo yêu cầu
 - Hỗ trợ sắp xếp và vận hành khâu sản xuất
+- Làm việc tại Phạm Hùng, quận 8 (đối diện Satra Phạm Hùng)
 
 ✅ **Quyền lợi**:
 
@@ -38,7 +39,6 @@ Viet Canvas cần tuyển nhân viên in ấn & giám sát chất lượng tại
 + Có kỹ năng cơ bản về sử dụng máy vi tính
 + Chăm chỉ, nhanh nhẹn, hoà đồng, có thái độ tốt trong công việc
 + Không yêu cầu kinh nghiệm, sẽ được đào tạo
-+ Làm việc tại Phạm Hùng, quận 8 (đối diện Satra Phạm Hùng)
 + Thời gian làm việc: 8h - 17h từ thứ 2 - chủ nhật. Được nghỉ linh hoạt 2 ngày trong tháng (không nghỉ được trả thêm 500k/ngày)
 
 📲 Ai quan tâm vui lòng liên hệ số điện thoại: [**0964842142**](tel:0964842142).
