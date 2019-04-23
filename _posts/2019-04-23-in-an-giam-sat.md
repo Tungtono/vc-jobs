@@ -39,7 +39,7 @@ Viet Canvas cần tuyển nhân viên in ấn & giám sát chất lượng tại
 + Chăm chỉ, nhanh nhẹn, hoà đồng, có thái độ tốt trong công việc
 + Không yêu cầu kinh nghiệm, sẽ được đào tạo
 + Làm việc tại Phạm Hùng, quận 8 (đối diện Satra Phạm Hùng)
-+ * Thời gian làm việc: 8h - 17h từ thứ 2 - chủ nhật. Được nghỉ linh hoạt 2 ngày trong tháng (không nghỉ được trả thêm 500k/ngày)
++ Thời gian làm việc: 8h - 17h từ thứ 2 - chủ nhật. Được nghỉ linh hoạt 2 ngày trong tháng (không nghỉ được trả thêm 500k/ngày)
 
 📲 Ai quan tâm vui lòng liên hệ số điện thoại: [**0983859614**](tel:0983859614).
 
