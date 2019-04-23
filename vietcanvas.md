@@ -11,13 +11,11 @@ Việt Canvas là xưởng tranh đầu tiên ở Việt Nam cung cấp dịch v
 - In tranh trong vòng 24h
 - Ship và treo tranh tận nhà miễn phí
 
-Việt Canvas tự hào là thương hiệu uy tín đã được sử dụng trang trí cho hơn 30000 căn hộ cao cấp trên toàn quốc.
+Việt Canvas tự hào là thương hiệu uy tín đã được sử dụng trang trí cho hơn 50000 căn hộ cao cấp trên toàn quốc.
 
-## LIÊN HỆ
+### Liên hệ tuyển dụng
 
-- Hotline: 0983.859.614
-- Email: sales@vietcanvas.net
+- Hotline: [**0964.842.142**](tel:0964842142)
+- Email: [**hr@vietcanvas.net**](mailto:hr@vietcanvas.net)
 - Cửa hàng TPHCM: 856 Tạ Quang Bửu, Phường 5, Quận 8, TP Hồ Chí Minh
 - Cửa hàng Hà Nội: Số 08, ngõ 23 Nguyễn Ngọc Vũ, Trung Hoà, Cầu Giấy, Hà Nội.
-
-Lưu ý: Viet Canvas hiện chỉ có ở các cửa hàng trên, mọi người nên liên hệ hotline 0983859614 trước khi tới để tránh trường hợp giả mạo.
