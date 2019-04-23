@@ -4,9 +4,9 @@
   "@type" : "JobPosting",
   "title" : "{{ page.title }}",
   "description" : "{{ page.desc }}",
-  "datePosted" : "{{ site.fromdate }}",
-  "validThrough" : "{{ site.validdate }}",
-  "employmentType" : "{{ site.emp_type }}",
+  "datePosted" : "{{ page.fromdate }}",
+  "validThrough" : "{{ page.validdate }}",
+  "employmentType" : "{{ page.emp_type }}",
   "hiringOrganization" : {
     "@type" : "Organization",
     "name" : "Viet Canvas",
@@ -17,10 +17,10 @@
   "@type": "Place",
     "address": {
     "@type": "PostalAddress",
-    "streetAddress": "{{ site.store_add }}",
-    "addressLocality": "{{ site.city }}",
-    "addressRegion": "{{ site.city }}",
-    "postalCode": "{{ site.city_code }}",
+    "streetAddress": "{{ page.store_add }}",
+    "addressLocality": "{{ page.city }}",
+    "addressRegion": "{{ page.city }}",
+    "postalCode": "{{ page.city_code }}",
     "addressCountry": "VN"
     }
   },
@@ -29,7 +29,7 @@
     "currency": "VND",
     "value": {
       "@type": "QuantitativeValue",
-      "value": "{{ site.salary }}",
+      "value": "{{ page.salary }}",
       "unitText": "MONTH"
     }
   }
