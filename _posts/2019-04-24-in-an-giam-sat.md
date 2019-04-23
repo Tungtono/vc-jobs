@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nhân viên in ấn & giám sát chất lượng
+title: Nhân viên in ấn và giám sát chất lượng
 subtitle: 7,000,000 - 10,000,000 VND/tháng
 tags: [vận hành, in ấn, giám sát, TPHCM]
 comments: true
