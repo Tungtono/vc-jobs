@@ -37,6 +37,6 @@ Cần tuyển 2 nhân viên treo Tranh Canvas.
 - Không yêu cầu kinh ngiệm sẽ được đào tạo cụ thể khi nhận việc.
 - Thời gian làm việc: từ 8h30am-7h00pm.
 
-Ai quan tâm xin liên hệ số điện thoại: [**0376566898**](tel:0376566898).
+Ai quan tâm xin liên hệ số điện thoại: [**0964842142**](tel:0964842142).
 
 ![Treo Tranh](/img/treo-tranh.jpg)
