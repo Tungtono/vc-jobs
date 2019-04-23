@@ -5,7 +5,7 @@ subtitle: 7,000,000 - 10,000,000 VND/tháng
 tags: [vận hành, TPHCM]
 comments: true
 desc: Công ty tranh treo tường trang trí Viet Canvas cần tuyển nhân viên in ấn & giám sát chất lượng tại xưởng tranh canvas. Mức lương cơ bản: 7 - 10 triệu (trả theo năng lực và hiệu quả công việc). Có lương tháng 13, được tăng lương 6 tháng một lần.
-fromdate: 2019-04-24
+fromdate: 2019-04-23
 validdate : 2019-06-30
 emp_type: full-time
 store_add: 84 Phạm Hùng, Bình Hưng, Bình Chánh
