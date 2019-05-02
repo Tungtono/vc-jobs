@@ -35,7 +35,7 @@ Cần tuyển 2 nhân viên đóng Tranh Canvas.
 
 - Bấm, căng tranh trên khung gỗ, đóng gói tranh cho shipper đi giao.
 - Giao tranh (nếu được yêu cầu)
-- Thời gian làm việc: từ 8h30am-7h00pm.
+- Thời gian làm việc: từ 8h00am-7h00pm.
 - Không yêu cầu kinh ngiệm sẽ được đào tạo cụ thể khi nhận việc.
 
 Ai quan tâm xin liên hệ số điện thoại: [**0964842142**](tel:0964842142).
