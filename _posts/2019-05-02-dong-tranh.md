@@ -22,7 +22,7 @@ Cần tuyển 2 nhân viên đóng Tranh Canvas.
 - Thu nhập ổn định 8-15 triệu/ tháng (tuỳ theo năng lực làm việc)
 - Tăng lương theo định kì và hưởng lương thứ 13
 - Được cấp miễn phí đồng phục công ty
-- Nghỉ phép linh hoạt, 2 lần/tháng, nếu không nghỉ phép tính thưởng 500K/ ngày. Nghỉ lễ/Tết vẫn được hưởng lương.
+- Nghỉ phép linh hoạt 2 lần/tháng, nếu không nghỉ phép tính thưởng 500K/ ngày. Nghỉ lễ/Tết vẫn được hưởng lương.
 
 ✅ **Yêu cầu**:
 
