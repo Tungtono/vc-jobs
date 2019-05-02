@@ -27,7 +27,7 @@ Cần tuyển 2 nhân viên đóng Tranh Canvas.
 ✅ **Yêu cầu**:
 
 - Nam: độ tuổi từ 28-40 (ưu tiên những người đã có gia đình)
-- Thái độ phục vụ nhiệt tình, vui vẻ với khách hàng, có tinh thần trách nhiệm cao với công việc
+- Thái độ phục vụ nhiệt tình, vui vẻ với khách hàng, tinh thần trách nhiệm cao với công việc
 - Nắm rõ các tuyến đường ở TP.HCM. 
 - Ưu tiên có hộ khẩu ở tp.HCM
 
@@ -35,7 +35,7 @@ Cần tuyển 2 nhân viên đóng Tranh Canvas.
 
 - Bấm, căng tranh trên khung gỗ, đóng gói tranh cho shipper đi giao.
 - Giao tranh (nếu được yêu cầu)
-- Thời gian làm việc: từ 8h30am-7h00pm.
+- Thời gian làm việc: từ 8h00am-7h00pm.
 - Không yêu cầu kinh ngiệm sẽ được đào tạo cụ thể khi nhận việc.
 
 Ai quan tâm xin liên hệ số điện thoại: [**0964842142**](tel:0964842142).
