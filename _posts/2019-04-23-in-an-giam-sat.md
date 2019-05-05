@@ -12,6 +12,7 @@ store_add: 84 Phạm Hùng, Bình Hưng, Bình Chánh
 city: TPHCM
 city_code: 70000
 salary: 7 - 10 triệu/tháng
+hidden: true
 
 ---
 
