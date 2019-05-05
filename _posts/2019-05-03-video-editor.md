@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cần Tuyển Nhân Viên Video Editor
+title: HCM Cần Tuyển Nhân Viên Video Editor
 subtitle: 10,000,000VND/tháng
 tags: [content creator, truyền thông, IT phần mềm, TPHCM]
 comments: true
