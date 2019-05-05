@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thợ đóng tranh - treo tranh - Lao động phổ thông
+title: Thợ đóng tranh - treo tranh - Lao động phổ thông Hà Nội
 subtitle: 10,000,000 - 15,000,000 VND/tháng
 tags: [đóng tranh, treo tranh, lao động phổ thông, Hà Nội]
 commesát: true
