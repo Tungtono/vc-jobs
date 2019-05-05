@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thợ treo tranh - Lao động phổ thông
+title: HCM Thợ treo tranh - Lao động phổ thông
 subtitle: 10,000,000 - 15,000,000 VND/tháng
 tags: [treo tranh, lao động phổ thông, TPHCM]
 commesát: true
