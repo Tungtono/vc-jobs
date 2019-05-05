@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thợ đóng tranh - Lao động phổ thông
+title: HCM Thợ đóng tranh - Lao động phổ thông
 subtitle: 8,000,000 - 15,000,000 VND/tháng
 tags: [đóng tranh, treo tranh, lao động phổ thông, TPHCM]
 comments: true
