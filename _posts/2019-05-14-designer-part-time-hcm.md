@@ -38,7 +38,7 @@ Cần tuyển 1 nhân viên designer - part time.
 
 ✅ **Mô tả công việc**:
 
-- Ghép sản phẩm vào backgroud
+- Ghép sản phẩm vào backgroud.
 
 
 Ai quan tâm xin liên hệ số điện thoại: [**0989396246**](tel:0989396246) hoặc nộp CV qua email: [**tuyen@vietcanvas.net**](mailto:tuyen@vietcanvas.net)
