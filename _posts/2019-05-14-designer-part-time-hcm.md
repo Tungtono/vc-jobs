@@ -45,4 +45,4 @@ Ai quan tâm xin liên hệ số điện thoại: [**0989396246**](tel:098939624
 
 Địa chỉ làm việc: 856 Tạ Quang Bửu, phường 5, quận 8
 
-![Marketing](/img/nhan-vien-designer.jpg)
+![Designer](/img/nhan-vien-designer.jpeg)
